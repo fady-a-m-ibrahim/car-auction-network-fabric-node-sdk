@@ -194,7 +194,7 @@ node invoke.js query memberA@acme.org
 
 Then, we can query MemberC by running the command. 
 ```
-node invoke.js query memberB@acme.org
+node invoke.js query memberC@acme.org
 ```
 
 Also, we query the vehicle number to see the new owner by running the command. 
